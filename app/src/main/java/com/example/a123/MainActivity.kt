@@ -59,7 +59,7 @@ findViewById<Button>(R.id.prawy).setOnClickListener {
         }
         findViewById<Button>(R.id.widok).setOnClickListener{
             var widok = findViewById<EditText>(R.id.widok).text;
-            findViewById<ImageView>(R.id.imageView).
+            findViewById<ImageView>(R.id.imageView)
     }
     }
 }
